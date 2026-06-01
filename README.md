@@ -12,15 +12,9 @@
 
 <div align="center">
     <a href="https://github.com/CodeWithCarrie/javascript-fundamentals/blob/main/README.md#setup">Setup</a> &bull;
-    <a href="https://github.com/CodeWithCarrie/javascript-fundamentals/blob/main/README.md#1---basic-syntax">Basic Syntax</a> &bull;
-    <a href="https://github.com/CodeWithCarrie/javascript-fundamentals/blob/main/README.md#2---conditionals">Conditionals</a> &bull;
-    <a href="https://github.com/CodeWithCarrie/javascript-fundamentals/blob/main/README.md#3---errors--debugging">Errors & Debugging</a> &bull;
-    <a href="https://github.com/CodeWithCarrie/javascript-fundamentals/blob/main/README.md#4---strings">Strings</a> &bull;
-    <a href="https://github.com/CodeWithCarrie/javascript-fundamentals/blob/main/README.md#5---arrays">Arrays</a> &bull;
-    <a href="https://github.com/CodeWithCarrie/javascript-fundamentals/blob/main/README.md#6---loops">Loops</a> &bull;
-    <a href="https://github.com/CodeWithCarrie/javascript-fundamentals/blob/main/README.md#7---function-basics">Function Basics</a> &bull;
-    <a href="https://github.com/CodeWithCarrie/javascript-fundamentals/blob/main/README.md#8---objects">Objects</a> &bull;
-    <a href="https://github.com/CodeWithCarrie/javascript-fundamentals/blob/main/README.md#9---more-on-functions">More on Functions</a>
+    <a href="https://github.com/CodeWithCarrie/javascript-fundamentals/blob/main/README.md#1---classes">Classes</a> &bull;
+    <a href="https://github.com/CodeWithCarrie/javascript-fundamentals/blob/main/README.md#2---modules">Modules</a> &bull;
+    <a href="https://github.com/CodeWithCarrie/javascript-fundamentals/blob/main/README.md#3---unit-testing">Unit Testing</a> &bull;
 </div>
 
 ---
