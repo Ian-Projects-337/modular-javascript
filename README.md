@@ -113,7 +113,7 @@ This collection of coding exercises focuses on JavaScript, Node and NPM modules,
 | Class Methods & Memory Scope         | [class-methods](/tutorials/01-classes/class-methods/)               | [Demo]()  |        |
 | Inheritance Basics                   | [inheritance-basics](/tutorials/01-classes/inheritance-basics/)     | [Demo]()  |        |
 | Deep Inheritance Chains              | [deep-inheritance](/tutorials/01-classes/deep-inheritance/)         | [Demo]()  |        |
-| Polymorphism & Interface Unity       | [polymorphism](/tutorials/01-classes/polymorphism/)                 | [Demo]()  |        |
+| Polymorphism                         | [polymorphism](/tutorials/01-classes/polymorphism/)                 | [Demo]()  |        |
 |                                      |                                                                     | **TOTAL** |        |
 
 ---
